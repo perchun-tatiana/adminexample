@@ -1,0 +1,41 @@
+#title {
+    text-align: center;
+    font-family: arial, sans-serif;
+  }
+
+  .wrapper{
+    padding-right: 40px;
+  }
+  .cs-message__sent-time{
+    display: inline !important ;
+  }
+  
+  .react-chat-row {
+   
+    width: 1300px;
+  }
+  
+  .rce-mbox-photo--img__block{
+    opacity: 0;
+  }
+  #messages td, #messages th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #messages tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #messages tr:hover {background-color: #ddd;}
+  
+  #messages th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .people{
+    background-color: #4CAF50;
+  }
+  
